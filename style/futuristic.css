@@ -1,1 +1,41 @@
 
+body {
+  margin: 0;
+  font-family: 'Orbitron', sans-serif;
+  background: radial-gradient(circle at center, #0f0f1b, #01010a);
+  color: white;
+  text-align: center;
+}
+
+header {
+  padding: 2rem;
+  background: rgba(0, 0, 0, 0.8);
+}
+
+.logo {
+  height: 80px;
+}
+
+section {
+  padding: 2rem;
+}
+
+.features {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  gap: 2rem;
+  flex-wrap: wrap;
+}
+
+.features ul {
+  text-align: left;
+}
+
+video {
+  width: 80%;
+  border: 2px solid #0ff;
+  border-radius: 10px;
+  box-shadow: 0 0 20px #0ff;
+}
