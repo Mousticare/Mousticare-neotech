@@ -1,12 +1,12 @@
 
-# Mousti'Care | Néotech
+# Mousti'Care
 
 Ce projet présente **Mousti'Care**, un système innovant de détection et neutralisation des moustiques en vol par laser mobile.
 
 ## Technologies utilisées
 - Détection LIDAR à haute fréquence (possibilité de coupler avec du thermique)
 - Laser directionnel avec miroirs inclinables
-- Système écologique sans produits chimiques
+- Système écologique sans produits chimiques, ni nuisances sonores.
 
 ## Démo
 Une vidéo réaliste est intégrée sur la page principale.
