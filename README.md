@@ -20,6 +20,6 @@ Une vidéo réaliste est intégrée sur la page principale.
 
 -Faire chuter le cout de fabrication pour que tout le monde accède à cette technologie.
 
--Partager ses idées et connaissances afin de perfectionner le produit.
+-Partager ses idées et connaissances afin de perfectionner le produit. Les codes sources seront régulierement mis à jour afin d'attirer les contributeurs et leurs idées. 
 
 © 2025 - Mousti'Care
